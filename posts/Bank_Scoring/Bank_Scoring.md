@@ -1,7 +1,9 @@
+---
 layout: post
 title:  "Functional Programming in Scala: A Motivating Example 2"
-date:   2022-03-07 18:12:12 +0100
+date:   2017-03-12 18:12:12 +0100
 categories: fp
+---
 
 # Project №4: The Computer Says "No"
 
