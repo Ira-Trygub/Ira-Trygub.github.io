@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Functional Programming in Scala: A Motivating Example 2"
+title:  "Bank Scoring"
 date:   2017-03-12 18:12:12 +0100
 categories: fp
 ---
@@ -369,8 +369,8 @@ data_test['timedelta']=const_date-data_test['app_date']
 data_test['timedelta']=data_test.apply(lambda x: x['timedelta'].total_seconds()/10000,axis=1)
 ```
 
-Как мы убедились выше столбец data['education'] содержит многочисленные пропуски.
-Давайте внимательнее изучим какие ещё значения он содержит
+As we see, the 'education' column contains numerous gaps.
+
 
 
 ```python
