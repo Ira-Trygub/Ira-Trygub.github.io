@@ -386,7 +386,7 @@ data_train['education'].astype('str').value_counts().plot(kind='bar', grid=True,
 
 
     
-![png](/_posts/output_21_1.png)
+![png](/_img1/output_21_1.png)
     
 
 
