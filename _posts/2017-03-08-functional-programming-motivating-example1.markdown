@@ -386,7 +386,7 @@ data_train['education'].astype('str').value_counts().plot(kind='bar', grid=True,
 
 
     
-![png](/_img1/output_21_1.png)
+![png](/img1/output_21_1.png)
     
 
 
@@ -491,7 +491,7 @@ for i in num_cols:
 
 
     
-![png](/_img1/output_31_0.png)
+![png](/img1/output_31_0.png)
     
 
 
@@ -500,7 +500,7 @@ for i in num_cols:
 
 
     
-![png](output_31_2.png)
+![png](/img1/output_31_2.png)
     
 
 
@@ -509,7 +509,7 @@ for i in num_cols:
 
 
     
-![png](output_31_4.png)
+![png](/img1/output_31_4.png)
     
 
 
@@ -518,7 +518,7 @@ for i in num_cols:
 
 
     
-![png](output_31_6.png)
+![png](/img1/output_31_6.png)
     
 
 
@@ -527,7 +527,7 @@ for i in num_cols:
 
 
     
-![png](output_31_8.png)
+![png](/img1/output_31_8.png)
     
 
 
@@ -552,7 +552,7 @@ for i in num_cols:
 
 
     
-![png](output_33_1.png)
+![png](/img1/output_33_1.png)
     
 
 
@@ -562,7 +562,7 @@ for i in num_cols:
 
 
     
-![png](output_33_3.png)
+![png](/img1/output_33_3.png)
     
 
 
@@ -572,7 +572,7 @@ for i in num_cols:
 
 
     
-![png](output_33_5.png)
+![png](/img1/output_33_5.png)
     
 
 
@@ -582,7 +582,7 @@ for i in num_cols:
 
 
     
-![png](output_33_7.png)
+![png](/img1/output_33_7.png)
     
 
 
@@ -592,7 +592,7 @@ for i in num_cols:
 
 
     
-![png](output_33_9.png)
+![png](/img1/output_33_9.png)
     
 
 
@@ -817,7 +817,7 @@ sns.heatmap(correlation)
 
 
     
-![png](output_37_1.png)
+![png](/img1/output_37_1.png)
     
 
 
@@ -848,31 +848,31 @@ for column in data_train[bin_cols]:
 
 
     
-![png](output_43_0.png)
+![png](/img1/output_43_0.png)
     
 
 
 
     
-![png](output_43_1.png)
+![png](/img1/output_43_1.png)
     
 
 
 
     
-![png](output_43_2.png)
+![png](/img1/output_43_2.png)
     
 
 
 
     
-![png](output_43_3.png)
+![png](/img1/output_43_3.png)
     
 
 
 
     
-![png](output_43_4.png)
+![png](/img1/output_43_4.png)
     
 
 
@@ -963,7 +963,7 @@ imp.plot(kind = 'barh', title='significance of numerical features')
 
 
     
-![png](output_56_1.png)
+![png](/img1/output_56_1.png)
     
 
 
@@ -1022,7 +1022,7 @@ lr = trait_regressor(X_train, y_train, X_test, y_test, LogisticRegression(max_it
 
 
     
-![png](output_64_1.png)
+![png](/img1/output_64_1.png)
     
 
 
@@ -1041,7 +1041,7 @@ rf = trait_regressor(X_train, y_train, X_test, y_test,
 
 
     
-![png](output_65_1.png)
+![png](/img1/output_65_1.png)
     
 
 
@@ -1064,7 +1064,7 @@ svc = trait_regressor(X_train, y_train, X_test, y_test,
 
 
     
-![png](output_66_2.png)
+![png](/img1/output_66_2.png)
     
 
 
@@ -1085,7 +1085,7 @@ gb = trait_regressor(X_train, y_train, X_test, y_test,
 
 
     
-![png](output_68_1.png)
+![png](/img1/output_68_1.png)
     
 
 
@@ -1111,7 +1111,7 @@ gb_best = trait_regressor( X_train, y_train, X_test, y_test,
 
 
     
-![png](output_69_1.png)
+![png](/img1/output_69_1.png)
     
 
 
