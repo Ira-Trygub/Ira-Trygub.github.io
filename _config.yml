@@ -1,13 +1,11 @@
-title: Dmytro Orlov's Blog
-email: orlov.dm@gmail.com
+title: Iryna Trygub
+email: triirra@gmail.com
 description: >
-  I’m scala developer from Cracow, Poland.
-  On this blog, I’m discussing functional programming, as
-  well as anything related to the software development process.
+  I’m Junior Data Scientist from Hamburg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dmytroorlov
-github_username:  dmytroorlov
+
+github_username:  Ira-Trygub
 
 theme: minima
 gems:
