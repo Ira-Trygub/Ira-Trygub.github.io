@@ -4,15 +4,11 @@ title: About me
 permalink: /about/
 ---
 
-I'm Dmytro Orlov, a software engineer from Cracow, Poland.
-I am working as a scala developer at Strikead by Sizmek.
-
-On this blog, I'm discussing functional programming, as well as anything related to the software development process.
-
+Hi, my name is Iryna Trygub and I am a junior specialist in the field of Machine Learning and Data Science. I am currently studying applied computer science at HAW Hamburg and am looking forward to getting my first experience in real production projects. On this page, you can get acquainted with my educational projects.
 You can get in touch via [email][mailto].
 
-I can also be found on Twitter {% include icon-twitter.html username="DmytroOrlov" %} and GitHub {% include icon-github.html username="DmytroOrlov" %}
+I can also be found on  GitHub {% include icon-github.html username="Ira-Trygub" %}
 My [CV][cv].
 
-[mailto]: mailto:orlov.dm@gmail.com
-[cv]: /DmytroOrlovCVforScalaDeveloper.pdf
+[mailto]: mailto:triirra@gmail.com
+[cv]: /Iryna_Trygub_CV_2021.pdf
