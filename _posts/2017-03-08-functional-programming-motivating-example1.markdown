@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bank Scoring"
-date:   2012-03-07 18:12:12 +0100
+date:   2022-03-07 18:12:12 +0100
 categories: fp
 ---
 
