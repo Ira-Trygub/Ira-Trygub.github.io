@@ -491,7 +491,7 @@ for i in num_cols:
 
 
     
-![png](output_31_0.png)
+![png](/_img1/output_31_0.png)
     
 
 
