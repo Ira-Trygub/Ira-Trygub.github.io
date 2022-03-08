@@ -469,31 +469,31 @@ for col in df[["age",  'blood_pressure',  'chol',  "max_heart_rate",  "previous_
 
 
     
-![png](output_12_0.png)
+![png](/img3/output_12_0.png)
     
 
 
 
     
-![png](output_12_1.png)
+![png]/img3/output_12_1.png)
     
 
 
 
     
-![png](output_12_2.png)
+![png](/img3/output_12_2.png)
     
 
 
 
     
-![png](output_12_3.png)
+![png](/img3/output_12_3.png)
     
 
 
 
     
-![png](output_12_4.png)
+![png](/img3/output_12_4.png)
     
 
 
@@ -514,55 +514,55 @@ for col in df[[ "sex", "chest_pain", 'blood_sugar',  "cardio", 'exang', "slp", '
 
 
     
-![png](output_14_0.png)
+![png](/img3/output_14_0.png)
     
 
 
 
     
-![png](output_14_1.png)
+![png](/img3/output_14_1.png)
     
 
 
 
     
-![png](output_14_2.png)
+![png](/img3/output_14_2.png)
     
 
 
 
     
-![png](output_14_3.png)
+![png](/img3/output_14_3.png)
     
 
 
 
     
-![png](output_14_4.png)
+![png](/img3/output_14_4.png)
     
 
 
 
     
-![png](output_14_5.png)
+![png](/img3/output_14_5.png)
     
 
 
 
     
-![png](output_14_6.png)
+![png](/img3/output_14_6.png)
     
 
 
 
     
-![png](output_14_7.png)
+![png](/img3/output_14_7.png)
     
 
 
 
     
-![png](output_14_8.png)
+![png](/img3/output_14_8.png)
     
 
 
@@ -586,7 +586,7 @@ plt.title("Chance of heart attack for Females and Males", fontsize=16)
 
 
     
-![png](output_15_1.png)
+![png](/img3/output_15_1.png)
     
 
 
@@ -887,7 +887,7 @@ plt.plot(ssd)
 
 
     
-![png](output_36_1.png)
+![png](/img3/output_36_1.png)
     
 
 
@@ -1059,7 +1059,7 @@ plt.title("Visualizing of clustering", fontsize=16)
 
 
     
-![png](output_40_1.png)
+![png](/img3/output_40_1.png)
     
 
 
@@ -1314,7 +1314,7 @@ plt.show()
 
 
     
-![png](output_47_0.png)
+![png](/img3/output_47_0.png)
     
 
 
@@ -1334,7 +1334,7 @@ plt.show()
 
 
     
-![png](output_48_0.png)
+![png](/img3/output_48_0.png)
     
 
 
