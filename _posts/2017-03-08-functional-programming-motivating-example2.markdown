@@ -1,8 +1,9 @@
+---
 layout: post
 title:  "Diabetes"
 date:   2021-04-07 18:12:12 +0100
 categories: fp
-
+---
 Praktikum "Data Science"
   
   SoSe 2021
