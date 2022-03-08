@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diabetes"
+title:  "Diabetes Prediction"
 date:   2021-04-07 18:12:12 +0100
 categories: fp
 ---
