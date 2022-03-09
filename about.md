@@ -11,4 +11,4 @@ I can also be found on  GitHub {% include icon-github.html username="Ira-Trygub"
 My [CV][cv].
 
 [mailto]: mailto:triirra@gmail.com
-[cv]: /Iryna_Trygub_CV_2021.pdf
+[cv]: /Iryna_Trygub_CV_2022.pdf

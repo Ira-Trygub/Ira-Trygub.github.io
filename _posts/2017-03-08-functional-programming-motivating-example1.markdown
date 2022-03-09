@@ -988,7 +988,7 @@ Let's write a function for training and testing a model that returns the complet
 
 
 ```python
-def trait_regressor(X_train, y_train, X_test, y_test, model):
+def trait_classifier(X_train, y_train, X_test, y_test, model):
     model.fit(X_train, y_train)
     y_pred = model.predict(X_test)
     
@@ -1011,7 +1011,7 @@ Let's start with logistic regression
 
 
 ```python
-lr = trait_regressor(X_train, y_train, X_test, y_test, LogisticRegression(max_iter=1000, random_state = RANDOM_SEED))
+lr = trait_classifier(X_train, y_train, X_test, y_test, LogisticRegression(max_iter=1000, random_state = RANDOM_SEED))
 ```
 
     Accuracy:0.8760840108401085
@@ -1028,7 +1028,7 @@ lr = trait_regressor(X_train, y_train, X_test, y_test, LogisticRegression(max_it
 
 
 ```python
-rf = trait_regressor(X_train, y_train, X_test, y_test,
+rf = trait_classifier(X_train, y_train, X_test, y_test,
                             RandomForestClassifier(random_state = RANDOM_SEED)
                        )
 ```
@@ -1047,7 +1047,7 @@ rf = trait_regressor(X_train, y_train, X_test, y_test,
 
 
 ```python
-svc = trait_regressor(X_train, y_train, X_test, y_test,
+svc = trait_classifier(X_train, y_train, X_test, y_test,
                             SVC(random_state = RANDOM_SEED)
                        )
 ```
@@ -1072,7 +1072,7 @@ Let's try to find the optimal hyperparameters for GradientBoostingClassifier usi
 
 
 ```python
-gb = trait_regressor(X_train, y_train, X_test, y_test,
+gb = trait_classifier(X_train, y_train, X_test, y_test,
                             GradientBoostingClassifier(random_state = RANDOM_SEED)
                        )
 ```
@@ -1097,7 +1097,7 @@ param_grid = {
     'max_features': ['auto', 'sqrt', 'log2'],
     'max_depth' : [3, 4, 6]
 }
-gb_best = trait_regressor( X_train, y_train, X_test, y_test,
+gb_best = trait_classifier( X_train, y_train, X_test, y_test,
                        GridSearchCV(estimator = GradientBoostingClassifier(), param_grid = param_grid, n_jobs = 6)
                        )
 
