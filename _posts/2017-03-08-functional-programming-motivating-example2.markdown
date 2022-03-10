@@ -1007,18 +1007,3 @@ loss_and_metrics = model_seq.evaluate( X_test, y_test, batch_size=32)
 ```python
 
 ```
-
-
-```python
-
-```
-
-
-```python
-#keras.utils.plot_model(model_func, "my_first_model.png")
-```
-
-
-```python
-
-```
