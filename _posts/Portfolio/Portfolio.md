@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Сar Price Prediction"
-date:   2021-07-06 18:12:12 +0100
-categories: fp
----
-
 # Сar Price Prediction
 
 
@@ -837,7 +830,7 @@ plt.show()
 
 
     
-![png](/img4/output_42_1.png)
+![png](output_42_1.png)
     
 
 
@@ -1690,7 +1683,7 @@ pd.DataFrame(st_stacked_features_train).plot()
 
 
     
-![png](/img4/output_113_1.png)
+![png](output_113_1.png)
     
 
 
