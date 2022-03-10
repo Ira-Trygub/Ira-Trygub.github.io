@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Сar Price Prediction"
-date:   2021-07-06 18:12:12 +0100
+date:   2021-01-06 18:12:12 +0100
 categories: fp
 ---
 
