@@ -635,8 +635,8 @@ for epoch in range(num_epochs):
                    'yaxis': {'title': {'text': 'Metric Values'}}}
     })
 
-![png](file:///D:/job/portfolio/Drone_Detection/Drone_Detection_01/newplot1.png)
-![png](file:///D:/job/portfolio/Drone_Detection/Drone_Detection_01/newplot2.png)
+![png](/img5/newplot1.png)
+![png](/img5/newplot2.png)
 
 ```python
 output_path = cfg["data"]["output"]
@@ -674,6 +674,6 @@ fig.update_layout(
 )   
 fig.show()     
 ```
-![png](file:///D:/job/portfolio/Drone_Detection/Drone_Detection_01/output_27_0.png)
+![png](/img5/output_27_0.png)
   
 
