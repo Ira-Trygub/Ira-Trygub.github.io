@@ -374,13 +374,13 @@ As we see, the 'education' column contains numerous gaps.
 
 
 ```python
-data_train['education'].astype('str').value_counts().plot(kind='bar', grid=True, title= 'Образование клиентов')
+data_train['education'].astype('str').value_counts().plot(kind='bar', grid=True, title= 'Education of clients')
 ```
 
 
 
 
-    <AxesSubplot:title={'center':'Образование клиентов'}>
+    <AxesSubplot:title={'center':'Education of clients'}>
 
 
 
