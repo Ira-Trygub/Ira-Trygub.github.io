@@ -1,4 +1,3 @@
-## Drone Detection
 
 In war-torn regions, effective drone identification can be a lifesaver. Therefore, machine learning-based object detection frameworks are applied to recognize drones in images.
 
